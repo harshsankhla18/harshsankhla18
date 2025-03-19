@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshsankhla18
 - 👀 I’m interested in coding and competeive programming
 - 🌱 I’m currently learning c++
-- ⚡ Fun fact: at IIIT Bh
+- ⚡ Fun fact: at IIIT BH
 
 <!---
 harshsankhla18/harshsankhla18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
