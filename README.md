@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshsankhla18
-- 👀 I’m interested in coding and competeive programming
+- 👀 I’m interested in coding and competetive programming
 - 🌱 I’m currently learning c++
 - ⚡ Fun fact: at IIIT BH
 
